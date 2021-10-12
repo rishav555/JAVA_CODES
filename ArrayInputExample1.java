@@ -35,6 +35,7 @@ import java.util.Scanner;
         if (flag==0) {
             System.out.println("Wrong");
         }
+        System.out.println("Hi");
     }
 }
     
